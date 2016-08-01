@@ -3,7 +3,7 @@ Example Java (maven) repository containing fake data with vulnerable dependencie
 
 There is at least one vulnerable dependency in this repository:
 
-* CVE-2015-7501: Remote code execution during deserialisation (https://access.redhat.com/security/cve/CVE-2015-7501)
+* CVE-2015-6420: Vulnerability in Java Deserialization (https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-6420)
 
 Run OWASP Dependency Check Maven Plugin
 
