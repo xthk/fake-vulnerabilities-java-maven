@@ -29,7 +29,7 @@
         <version>1.4.0</version>
         <configuration>
           <format>ALL</format>
-          <name>Example Java (maven) repository with example vulnerable dependencies</name>
+          <name>Example Java (maven) repository with example vulnerable dependencies </name>
         </configuration>
         <executions>
           <execution>
